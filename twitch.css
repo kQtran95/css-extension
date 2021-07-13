@@ -1,0 +1,6 @@
+html * {
+  user-select: auto!important;
+  -moz-user-select: auto!important;
+  -webkit-user-select: auto!important;
+  -webkit-user-drag: auto!important;
+}
